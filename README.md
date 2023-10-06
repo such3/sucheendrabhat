@@ -5,7 +5,7 @@ I'm a passionate learner and enthusiast in the field of web development, data st
 - **Web Development:** HTML, CSS, JavaScript
 - **Programming Languages:** C++, C
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/sucheendrabhat) to stay updated on my professional journey, and follow me on [Instagram](https://www.instagram.com/sucheendra) to see what I'm up to in my personal life.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/sucheendrabhat) to stay updated on my professional journey, and follow me on [Instagram](https://www.instagram.com/sucheendrabhat) to see what I'm up to in my personal life.
 
 Feel free to check out some of my projects and repositories here on GitHub. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out. Let's code together and learn from each other!
 
