@@ -1,12 +1,23 @@
-# Hello, I'm Sucheendra! 👋
+# 💫 About Me:
+Javascript and C++ ()<br>Interested in web development<br>Looking forward to learn with experienced people 
 
-I'm a passionate learner and enthusiast in the field of web development, data structures, and algorithms. I love exploring programming languages and creating amazing projects. Here are some of the technologies I'm currently working with:
 
-- **Web Development:** HTML, CSS, JavaScript
-- **Programming Languages:** C++, C
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sucheendrabhat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sucheendrabhat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SucheeCodes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sucheendrabhat ) 
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/sucheendrabhat) to stay updated on my professional journey, and follow me on [Instagram](https://www.instagram.com/sucheendrabhat) to see what I'm up to in my personal life.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sucheendrabhat&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sucheendrabhat&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sucheendrabhat&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Feel free to check out some of my projects and repositories here on GitHub. If you have any questions or would like to collaborate on a project, please don't hesitate to reach out. Let's code together and learn from each other!
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![GitHub followers](https://img.shields.io/github/followers/sucheendrabhat?style=social) ![GitHub stars](https://img.shields.io/github/stars/sucheendrabhat?style=social)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sucheendrabhat&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=sucheendrabhat&icon=0&color=0)](https://visitcount.itsvg.in)
+
