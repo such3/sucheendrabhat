@@ -1,5 +1,8 @@
 # 💫 About Me:
-Javascript and C++ ()<br>Interested in web development<br>Looking forward to learn with experienced people 
+## About Me
+- **Languages:** JavaScript, C++
+- **Interest:** Web development
+- **Learning Goal:** Eager to learn with experienced individuals 
 
 
 ## 🌐 Socials:
